@@ -1,0 +1,13 @@
+C ist...
+	
+
+[X] ... besonders geeignet für hardwarenahe Programmierung.
+	
+
+[X] ... eine imperative Programmiersprache.
+	
+
+[X] ... nur bedingt typsicher.
+	
+
+... objektorientiert.

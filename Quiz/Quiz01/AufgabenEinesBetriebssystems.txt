@@ -1,0 +1,21 @@
+Im Sinne der Benutzerfreundlichkeit werden moderne Betriebssysteme üblicherweise mit umfassenden Softwarepaketen vertrieben, die mit den grundsätzlichen Aufgaben eines Betriebssystems nicht zwangsläufig etwas zu tun haben. Die grundsätzlichen Aufgaben werden durch den Betriebssystemkernel abgedeckt.
+
+Markieren Sie typische Bestandteile eines modernen Betriebssystemkernels:
+	
+
+Desktopverwaltung
+	
+
+Texteditor
+	
+
+[X] Geräte- und Dateiverwaltung
+	
+
+[X] Prozessverwaltung
+	
+
+Compiler
+	
+
+[X] Speicherverwaltung

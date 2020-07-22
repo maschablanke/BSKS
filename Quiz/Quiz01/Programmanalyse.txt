@@ -1,0 +1,27 @@
+Gibt es ein Problem in folgendem Programm?
+
+#include <stdio.h>
+
+int main()
+{
+    display();
+    return 0;
+}
+
+void display()
+{
+    printf("Hello, world!");
+}
+
+	
+
+Nein.
+	
+
+Ja, der main-Funktion fehlen die Parameter argc und argv.
+	
+
+Ja, die Funktion display hat kein return-Statement.
+	
+
+[X] Ja, die Funktion display wird aufgerufen bevor sie definiert wird.
