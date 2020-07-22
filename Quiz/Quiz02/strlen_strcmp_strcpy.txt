@@ -1,0 +1,27 @@
+Folgende drei C-Funktionen seien gegeben:
+
+int* f1() {
+  int x = 1;
+  return (&x);
+}
+
+int* f2() {
+  int* px = (int*) malloc(sizeof(int));
+  *px = 1;
+  return px;
+}
+
+int* f3() {
+  int *px;
+  *px = 1;
+  return px;
+}
+
+
+[ ] 0
+	
+[ ] 5
+	
+[ ] 3
+
+[X] 4

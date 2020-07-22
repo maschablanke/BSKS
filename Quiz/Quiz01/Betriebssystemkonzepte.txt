@@ -1,0 +1,11 @@
+Was meint der Autor Andrew S. Tanenbaum im Hinblick auf die Computerindustrie mit der Formulierung:
+"Die Ontogonese rekapituliert die Phylogonese" (Andrew S. Tannenbaums, "Moderne Betriebssysteme" S. 80)
+
+
+[X] Neue Technologiearten durchlaufen die gleichen Entwicklungsstadien wie ihre Vorgänger.
+
+[ ] Der Aufwand eine neue Technologie herzustellen ist vergleichbar mit dem Gesamtaufwand aller zurückliegenden Technologien.
+
+[ ] Technologien wiederholen sich.
+
+[ ]	Neue Technologien werden aus bestehenden zusammengesetzt.

@@ -1,0 +1,12 @@
+struct Person
+{
+    char name[100];
+    int  age;
+    float height;
+};
+
+Person p;
+Wie viel Byte belegt p?
+
+
+Antwort: 108

@@ -1,0 +1,9 @@
+Was versteht man unter Dual Mode Operation?
+
+[X] Rechtemanagement über Kernel- und User-Modus
+
+[ ] Multitasking mittels Prozessen und Threads
+
+[ ] Adressberechnung mit Base- und Bounds-Register
+
+[ ] Speicherlayout mit Heap und Stack

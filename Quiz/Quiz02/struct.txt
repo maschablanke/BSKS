@@ -1,0 +1,30 @@
+Welche printf-Varianten führen zu einer Konsolenausgabe der Straße?
+
+#include<stdio.h>
+#include<string.h>
+
+struct address {
+        char name[50];
+        char street[100];
+        short number;
+        long zip;
+        char city[50];
+};
+
+int main() {
+  struct address addr;
+
+  // ...
+
+  // print street
+  
+}
+ 
+
+[ ]	printf("%s\n", (*addr).street);
+
+[ ]	printf("%s\n", addr->street);
+
+[X] printf("%s\n", addr.street);
+
+[X] printf("%s\n", (&addr)->street);

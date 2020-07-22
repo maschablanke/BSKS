@@ -1,0 +1,10 @@
+Welche Funktion muss in jedem ausführbaren C-Programm vorkommen?
+
+
+[X] main()
+
+[ ] system()
+
+[ ] program()
+
+[ ] start()

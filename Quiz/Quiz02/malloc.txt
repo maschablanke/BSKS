@@ -1,0 +1,28 @@
+Folgende drei C-Funktionen seien gegeben:
+
+int* f1() {
+  int x = 1;
+  return (&x);
+}
+
+int* f2() {
+  int* px = (int*) malloc(sizeof(int));
+  *px = 1;
+  return px;
+}
+
+int* f3() {
+  int *px;
+  *px = 1;
+  return px;
+}
+Welche der folgenden Aussagen trifft für die Rückgabewerte der gezeigten Funktionen zu?
+
+
+[ ]	Alle zurückgegebenen Pointer zeigen auf nicht allokierte Speicherbereiche.
+
+[ ]	Die von f2 und f3 zurückgegebenen Pointer zeigen jeweils auf einen int mit dem Wert 1, der in f1 zurückgegebene Pointer zeigt auf einen nicht allokierten Speicherbereich.
+	
+[ ] Alle Funktionen liefern Pointer, die auf einen int mit dem Wert 1 zeigen.
+	
+[X]	Nur das Ergebnis von f2 zeigt auf einen int mit dem Wert 1, die von f1 und f3 zurückgegebenen Pointer zeigen auf nicht allokierte Speicherbereiche
