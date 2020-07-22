@@ -1,0 +1,10 @@
+Welche Aussagen sind wahr?
+
+	
+[ ] Ein blockierter Kernel-Thread blockiert alle weiteren Threads des Prozesses.
+
+[X] Kernel-Threads eines Prozesses können auf unterschiedlichen Prozessorkernen gleichzeitig laufen.
+
+[X] Der Kontextwechsel für Kernel-Threads dauert länger als für User-Threads.
+
+[X] Das Betriebssystem hat keine Kenntnis über die Anzahl der User-Threads eines Prozesses.

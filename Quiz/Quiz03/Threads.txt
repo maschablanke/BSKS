@@ -1,0 +1,8 @@
+Welche Aussagen sind für POSIX-Betriebssysteme korrekt?
+
+
+[X] Mehrere Threads eines Prozesses nutzen denselben Adressraum.
+
+[ ] Mit dem Befehl fork() lässt sich ein neuer Thread mit gleichem Adressraum erzeugen.
+
+[ ] Ein Thread kann seinen Prozess wechseln.

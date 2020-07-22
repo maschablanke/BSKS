@@ -1,0 +1,10 @@
+Interrupts...
+
+
+[ ] ... terminieren den laufenden Prozess.
+	
+[X] ... sind asynchron.
+
+[X] ... führen zu der Ausführung einer entsprechenden Handler-Routine.
+
+[ ] ... werden immer aktiv vom zu unterbrechendem Prozess herbeigeführt.

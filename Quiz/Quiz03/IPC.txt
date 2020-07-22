@@ -1,0 +1,8 @@
+Ein Prozess soll so schnell wie möglich auf ein Event reagieren. Über welches Kommunikationsmodell soll er informiert werden?
+
+
+[X] Signals
+
+[ ] Message Passing
+
+[ ] Shared Memory

@@ -1,0 +1,7 @@
+Füllen sie die Lücken entweder mit dem Wort Prozess (Prozesse) oder Thread (Threads).
+
+
+Die Instanziierung eines Computerprogramms zu dessen Laufzeit bezeichnet man als -Prozess-.
+Ihm sind ein eigener Adressraum und weitere Betriebssystemmittel zugeordnet.
+Ein Prozess kann mehrere -Threads- oder, wenn keine Parallelverarbeitung vorgesehen ist, auch nur einen einzigen -Thread- verwenden. 
+-Threads- haben einen wesentlich geringeren Verwaltungsaufwand als -Prozesse- und können deutlich schneller erzeugt werden.

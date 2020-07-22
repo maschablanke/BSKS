@@ -1,0 +1,62 @@
+Ohne den Aufruf der Funktion MYSTERIOUS_FUNCTION im unten gezeigten Programm sind die Aktionen "Erzeugung eines Threads" und "Nachricht drucken" zufällig miteinander verschachtelt.
+
+#include <thread.h>
+#include <stdio.h>
+#include <stdlib.h>
+
+#define NUMBER_OF_THREADS 10
+
+void* print_hello_world(void *tid)
+{
+    /* Diese Funktion druckt die Thread-ID und beendet sich dann. */
+    printf("Hello World. Greetings from thread %d\n", *((int *)tid));
+    pthread_exit(NULL);
+}
+
+int main(int argc, char *argv[]) {
+    /* Das Hauptprogramm erzeugt 10 Threads und beendet sich dann. */
+    pthread_t threads[NUMBER_OF_THREADS];
+    int status, i;
+
+    for(i=0; i < NUMBER_OF_THREADS; i++) {
+        printf("Main here. Creating thread %d\n", i);
+        status = pthread_create(&threads[i], NULL, print_hello_world, (void *)&i);
+
+        if (status != 0) {
+            printf("Oops. pthread_create returned error code %d\n", status);
+            exit(-1);
+        }
+
+        status = MYSTERIOUS_FUNCTION(threads[i], NULL);
+        if (status != 0) {
+            printf("Oops. MYSTERIOUS_FUNCTION returned error code %d\n", status);
+            exit(-1);
+        }
+    }
+}
+Es wird nach einer in der Vorlesung vorgestellten Funktion MYSTERIOUS_FUNCTION der pthread-Familie gesucht, die eine strenge Reihenfolge erzwingt, so dass sich stets folgende Ausgabe ergibt:
+
+Main here. Creating thread 0
+Hello World. Greetings from thread 0
+Main here. Creating thread 1
+Hello World. Greetings from thread 1
+Main here. Creating thread 2
+Hello World. Greetings from thread 2
+Main here. Creating thread 3
+Hello World. Greetings from thread 3
+Main here. Creating thread 4
+Hello World. Greetings from thread 4
+Main here. Creating thread 5
+Hello World. Greetings from thread 5
+Main here. Creating thread 6
+Hello World. Greetings from thread 6
+Main here. Creating thread 7
+Hello World. Greetings from thread 7
+Main here. Creating thread 8
+Hello World. Greetings from thread 8
+Main here. Creating thread 9
+Hello World. Greetings from thread 9
+Welche Funktion der POSIX Standard API ist gesucht?
+
+
+pthread_join
