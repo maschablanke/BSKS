@@ -1,0 +1,9 @@
+Welche Aussagen sind in C wahr?
+
+[X] Deklariert man Variablen außerhalb von Funktionen, so sind sie global verfügbar.
+
+[ ] Der sizeof()-Operator ist nicht auf Arrays anwendbar.
+
+[ ] Die Größe von "short int" und "long int" sind plattformunabhängig.
+
+[X] Ein float belegt 4 Byte, ein double 8 Byte.

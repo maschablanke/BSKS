@@ -1,0 +1,9 @@
+Ein Prozess kann sich in den Zuständen rechnend, rechenbereit und blockiert befinden. Welche der Übergänge sind im normalen Betrieb vorgesehen.
+
+[X] rechnend → rechenbereit
+
+[ ] blockiert → rechnend
+
+[ ] rechenbereit → blockiert
+
+[X] rechnend → blockiert

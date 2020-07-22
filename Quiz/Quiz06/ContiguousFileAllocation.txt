@@ -1,0 +1,7 @@
+Was ist ein Nachteil der Contiguous File Allocation?
+
+[X] Höhere externe Fragmentierung als bei der Distributed File Allocation
+
+[ ] Höhere interne Fragmentierung als bei der Distributed File Allocation
+
+[ ] Höhere Zugriffszeiten als bei der Distributed File Allocation

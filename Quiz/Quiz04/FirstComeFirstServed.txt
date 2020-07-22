@@ -1,0 +1,10 @@
+Zwei Stapelverarbeitungsjobs A und B kommen fast zur gleichen Zeit in einem Rechenzentrum an (A etwas vor B). Ihre geschätzten Laufzeiten sind nach Reihenfolge des Eintreffens 10 (A) und 6 (B) Minuten. Ihre (extern bestimmten) Prioritäten sind 1 und 2 in gleicher Reihenfolge, wobei 2 die höhere Priorität darstellt. Zu welcher Minute sind Jobs jeweils voraussichtlich fertig ausgeführt, wenn die Scheduling-Strategie First Come, First Served angewendet wird? Vernachlässigen Sie dabei den Aufwand des Prozesswechsels.
+
+
+[ ] Job A ist voraussichtlich nach 16 Minuten fertig.
+
+[X] Job A ist voraussichtlich nach 10 Minuten fertig.
+
+[X] Job B ist voraussichtlich nach 16 Minuten fertig.
+
+[ ] Job B ist voraussichtlich nach 12 Minuten fertig.

@@ -1,0 +1,9 @@
+Welche zwei Aussagen gelten für das Distance-Vector-Routing?
+
+[ ] Beim Distance-Vector-Routing kennt jeder Router für jeden Zielrouter jeden Schritt des optimalen Pfades und die Distanz jedes Zwischenschritts.
+
+[X] Die Anzahl der Iterationen für die Berechnung der terminalen Weiterleitungstabelle eines Routers ist bei bei konstanten Kosten niemals größer als die Anzahl der Router im untersuchten Netzwerk.
+
+[X] Das Poisoned-Reverse-Verfahren verhindert, dass Pfade mit Zyklus fälschlicherweise als optimal angesehen werden können.
+
+[ ] Distance-Vector-Routing ist ein dynamisches Routing-Protokoll, welches den Dijkstra-Algorithmus verwendet.

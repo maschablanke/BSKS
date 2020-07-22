@@ -1,0 +1,9 @@
+Zwei Stapelverarbeitungsjobs A und B kommen (idealisiert) zur gleichen Zeit in einem Rechenzentrum an. Ihre geschätzten Laufzeiten sind 10 (A) und 6 (B) Minuten. Ihre (extern bestimmten) Prioritäten sind 2 und 1 in gleicher Reihenfolge, wobei 2 die höhere Priorität darstellt. Zu welcher Minute sind Jobs jeweils voraussichtlich fertig ausgeführt, wenn die Scheduling-Strategie Shortest Job First angewendet wird? Vernachlässigen Sie dabei den Aufwand des Prozesswechsels.
+
+[X] Job A ist voraussichtlich nach 16 Minuten fertig.
+
+[ ] Job B ist voraussichtlich nach 12 Minuten fertig.
+
+[X] Job B ist voraussichtlich nach 6 Minuten fertig.
+
+[ ] Job A ist voraussichtlich nach 10 Minuten fertig.

@@ -1,0 +1,7 @@
+Greifen verschiedene Prozesse über die gleichen virtuellen Adressen auch auf dieselben physikalischen Adressen zu?
+
+[ ] Nur wenn Prozesse der gleichen Prozessgruppe (process group) angehören, zeigen gleiche virtuelle Adressen auf dieselben physikalischen Adressen.
+
+[ ] Nein. Prozesse haben disjunkte physikalische Adressräume. Gleiche virtuelle Adressen verschiedener Prozesse werden von der MMU stets in unterschiedliche physikalische Adressen übersetzt.
+
+[X] Nur in Ausnahmefällen. Seiten verschiedener Prozesse können verschiedenen Frames, aber auch demselben Frame (z. B. shared memory) zugeordnet sein.

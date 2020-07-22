@@ -1,0 +1,10 @@
+Markieren sie die zwei richtigen Aussagen zu TCP.
+
+[X] Mehrere TCP-Pakete können mit einem ACK gleichzeitig bestätigt werden.
+
+[ ] In jedem TCP-Header befindet sich eine 4-Byte-Checksumme.
+
+[ ] Die TCP Sequence Number wird mit jedem neuen Paket um 1 inkrementiert.
+
+[X] TCP sieht bei Verbindungsaufbau und Verbindungsabbau einen Drei-Wege-Handschlag (3-way handshake) vor.
+

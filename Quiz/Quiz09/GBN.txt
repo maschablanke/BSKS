@@ -1,0 +1,9 @@
+Was gilt für das Protokoll Go-Back-N als Erweiterung von rdt3.0? Markieren sie zwei Aussagen.
+
+[ ] Es kommt nicht vor, dass vollständige und richtige Pakete verworfen werden.
+
+[ ] Der Paket-Overhead ist nicht abhängig von N und somit nicht größer als bei rdt3.0.
+
+[X] Pakete werden mitunter mehrfach bestätigt (ACKnowlegded).
+
+[X] Im Optimalfall kann der Durchsatz linear um den Faktor N gesteigert werden.

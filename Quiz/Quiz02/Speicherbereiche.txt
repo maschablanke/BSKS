@@ -1,0 +1,17 @@
+Konzeptionell lässt sich der vom Betriebssystem zugewiesene Speicherbereich einer Programmausführung in vier Bereiche unterteilen. Welche vier?
+
+[ ] I/O
+
+[ ] Swap
+
+[X] Heap
+
+[ ] Virtual
+
+[X] Code
+
+[X] Data
+
+[X] Stack
+
+[ ] Kernel

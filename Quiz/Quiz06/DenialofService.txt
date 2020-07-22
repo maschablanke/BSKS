@@ -1,0 +1,7 @@
+Eine Denial of Service-Attacke ist ein Angriffsmuster, bei dem...
+
+[ ] ... ein Angreifer Nachrichten abfängt und in veränderter Form an den Empfänger sendet.
+
+[X] ... die Verfügbarkeit des Systems durch gezielte Überlastung lahmgelegt wird.
+
+[ ] ... ein Angreifer die Identität des Angegriffenen übernimmt.

@@ -1,0 +1,7 @@
+Welche Vorteile ergeben sich durch virtuelle Dateisysteme (Virtual file systems)? Warum werden nicht nur physikalische Dateisysteme (Physical file systems) genutzt? Markieren Sie zwei Vorteile eines virtuellen Dateisystems.
+
+[X] Es bietet eine vereinheitlichte Programmierschnittstelle (unabhängig vom physikalischen Dateisystem).
+
+[X] Verschiedene physikalische Dateisysteme können zusammengefasst werden.
+
+[ ] Es ermöglicht die Verwendung virtueller Adressräume.

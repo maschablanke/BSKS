@@ -1,0 +1,9 @@
+Welche zwei Aussagen sind korrekt?
+
+[X] Der Durchsatz (Throughput) gibt die Nutzdatenmenge pro Zeit an, die in einem Netzwerk übertragen wird.
+
+[ ] Der Durchsatz sinkt proportional mit der Länge einer Route.
+
+[X] Der Durchsatz ist abhängig von der Bandbreite, Paketverlustrate und Auslastung des Netzwerks.
+
+[ ] Der Durchsatz eines mehrstufigen Systems ergibt sich als durchschnittlicher Durchsatz der einzelnen Bestandteile.

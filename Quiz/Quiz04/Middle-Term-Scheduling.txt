@@ -1,0 +1,7 @@
+Zusammenfassend regelt Medium-Term-Scheduling...
+
+[X] ... welche Prozesse im Hauptspeicher liegen bzw. auf einen Sekundärspeicher ausgelagert sind.
+
+[ ]... welcher Prozess als nächster ausgeführt wird.
+
+[ ]... welche Prozesse zeitgleich existieren.

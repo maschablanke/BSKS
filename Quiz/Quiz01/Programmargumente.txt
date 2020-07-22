@@ -1,0 +1,22 @@
+Das Programm
+
+    #include <stdio.h>
+
+    int main(int argc, char* argv[])
+    {
+        printf("%s", argv[1]);
+        return 0;
+    }
+wird mit dem Befehl
+
+    ./programm a b c
+
+gestartet. Welche Konsolenausgabe ist zu sehen?
+
+[ ] c
+
+[X] a
+
+[ ] 0
+
+[ ] b

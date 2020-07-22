@@ -1,0 +1,9 @@
+Welche Elemente enthält der Superblock? Markieren sie zwei Antworten.
+
+[X] Größe der Inode-Liste
+
+[X] Größe des Dateisystems
+
+[ ] Zeiger auf Inode des Root-Verzeichnisses
+
+[ ] Block-Größe (Block size)

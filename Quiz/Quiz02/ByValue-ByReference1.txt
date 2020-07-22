@@ -1,0 +1,22 @@
+Was gibt folgendes Programm auf der Kommandozeile aus?
+
+    #include <stdio.h>
+
+    void fun(int b) {
+    b = 2;
+    }
+
+    int main() {
+    int a = 1;
+    fun(a);
+    printf("%d", a);
+    return 0;
+    }
+
+[ ] Compiler-Fehler
+
+[ ] 0
+
+[ ] 2
+
+[X] 1

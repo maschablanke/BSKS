@@ -1,0 +1,7 @@
+Die Authentizität (Authenticity) einer Nachricht...
+
+[X] ... beschreibt, ob die Identität des Absenders verifizierbar ist.
+
+[ ] ... gibt an, ob die Nachricht durch nicht authorisierte Dritte verändert werden kann.
+
+[ ] ... gibt an, ob nicht authorisierte Dritte die Nachricht lesen können.

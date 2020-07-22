@@ -1,0 +1,9 @@
+Markieren Sie zwei richtige Aussagen bezuglich HTTP.
+
+[X] Der Einsatz von Cookies ist eine übliche Methode, um Benutzersessions zu speichern.
+
+[X] Der HTTP-Header enthält üblicherweise Informationen wie die Browser-Version oder das erwartete Encoding.
+
+[ ] HTTP ist Bestandteil der HTML-Protkollfamilie.
+
+[ ] Der Standard-Port für HTML-Anfragen ist 8000.

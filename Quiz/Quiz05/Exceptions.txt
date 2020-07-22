@@ -1,0 +1,13 @@
+Weisen Sie den Begriffen ihre Beschreibung zu,
+
+Geplante Blockierung eines Prozesses, z. B. durch einen blockierenden Systemaufruf
+
+    Trap
+
+Ungeplante Beendigung des Programms durch eine nicht behebbare Ausnahme
+
+    Abort
+
+Ungeplante Unterbrechung, möglicherweise da ein aktueller Befehl noch nicht ausgeführt werden kann. In diesem Fall wird der Befehl später erneut ausgeführt.
+
+    Fault

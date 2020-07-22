@@ -1,0 +1,21 @@
+Was gibt das zweite printf auf der Konsole aus?
+
+    #include<stdio.h>
+
+    int main() {
+    char *ptr = "Ausgabe";
+        
+    // Ausgabe auf der Konsole: "A"
+    printf("%c", *ptr);
+
+    // Ausgabe auf der Konsole?
+    printf("%c", *(ptr+1));
+    }
+	
+[ ] a
+
+[X] u
+
+[ ] Compiler-Fehler
+
+[ ] Adresse des char-Arrays + 1

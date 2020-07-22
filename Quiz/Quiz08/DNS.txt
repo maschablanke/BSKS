@@ -1,0 +1,9 @@
+Markieren Sie zwei richtige Aussagen bezuglich DNS.
+
+[X] Der Standard-Port für DNS ist 53.
+
+[X] Der Typ A einer Resource Record enthält als Wert eine IP-Adresse.
+
+[ ] Weltweit gibt es 19 Root-Nameserver (root name servers).
+
+[ ] Die Hauptaufgabe des DNS ist die Namensauflösung von IP-Adresse zu Domain.

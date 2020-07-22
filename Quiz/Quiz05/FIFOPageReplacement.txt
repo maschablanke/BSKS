@@ -1,0 +1,16 @@
+Seitenzugriffe                | 1 | 4 | 3 | 1 | 5 | 2 | 1 | 2 | 3 | 2 | 1 | 5 | 5 | 3 | 4 
+------------------------------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---
+Geladene Seiten               | 1 | 4 | 3 | 3 | 5 |   |   |   |   |   |   |   |   |   |   
+(Sortiert von neu zu alt)     |   | 1 | 4 | 4 | 3 |   |   |   |   |   |   |   |   |   |   
+                              |   |   | 1 | 1 | 4 |   |   |   |   |   |   |   |   |   |   
+Page Fault (F) / Page Hit (H) | F | F | F | H | F |   |   |   |   |   |   |   |   |   |   
+
+Es werden die in der Tabelle dargestellten Seitenzugriffe vorgenommen. Im Speicher stehen drei Seitenrahmen zur Verfügung, der Replacement-Algorithmus ist FIFO. Die ersten fünf Zugriffe verursachen einen Page Hit und vier Page Faults. Wie viele Page Faults sind es bis zum Ende der Tabelle?
+
+[ ] 7
+
+[ ] 10
+
+[X] 9
+
+[ ] 8

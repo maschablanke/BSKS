@@ -1,0 +1,21 @@
+Ordnen Sie die Begriffe ihrer Beschreibung zu!
+
+Datentyp für die Verwaltung eines pthreads
+
+    pthread_t
+
+Funktion, die einen neuen Thread mit der übergebenden Funktion startet
+
+    pthread_create
+
+Funktion, die den aufrufenden Thread beendet
+
+    pthread_exit
+
+Funktion, die die aktuelle Ausführung unterbricht und zu einem anderen Thread wechselt
+
+    pthread_yield
+
+Funktion, die blockierend auf die Terminierung eines anderen Threads wartet
+
+    pthread_join

@@ -1,0 +1,9 @@
+Markieren Sie zwei richtige Aussagen bezuglich UDP.
+
+[X] UDP ist im Gegensatz zu TCP zustandslos (stateless).
+
+[ ] UDP nutzt im Gegensatz zu TCP keine Prüfsumme (checksum), da die Integrität des Paketinhalts nicht verifiziert wird.
+
+[ ] Zwar können bei UDP einzelne Pakete verloren gehen, dafür garantiert es im Gegensatz zu TCP einen konstanten Durchsatz (throughput guarantee).
+
+[X] UDP wird vor allem für Streaming-Dienste (Youtube, Skype, ...) verwendet.

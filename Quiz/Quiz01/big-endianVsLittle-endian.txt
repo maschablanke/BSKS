@@ -1,0 +1,9 @@
+Kreuzen Sie die zutreffenden Aussagen an.
+
+[X] big-endian bedeutet, dass das höchstwertige Byte wird zuerst gespeichert.
+
+[X] little-endian bedeutet, dass das höchstwertige Byte zuletzt gespeichert wird.
+
+[ ] big-endian bedeutet, dass das höchstwertige Byte wird zuletzt gespeichert.
+
+[ ] little-endian bedeutet, dass das höchstwertige Byte zuerst gespeichert wird.

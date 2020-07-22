@@ -1,0 +1,9 @@
+Markieren Sie zwei Eigenschaften von Circuit Switching.
+
+[ ] Höherer Daten-Overhead als bei Packet Switching
+
+[ ] Mehrere Konversationen können gleichzeitig über eine Datenleitung stattfinden
+
+[X] Der gesamte Pfad eines Pakets ist beim Absenden bekannt.
+
+[X] Eine feste Bandbreite kann im Allgemeinen garantiert werden.

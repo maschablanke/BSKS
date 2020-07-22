@@ -1,0 +1,7 @@
+Jeder Eintrag einer Seitentabelle (Page table entry) enthält ein Referenced bit. Welches Ziel wird hierdurch verfolgt?
+
+[ ] Reduzierung der Anzahl unnötiger Schreiboperationen auf dem Sekundärspeicher
+
+[ ] Reduzierte Anzahl von Einträgen in der Seitentabelle (Page table entries)
+
+[X] Reduzierung der Anzahl an Page Faults

@@ -1,0 +1,10 @@
+Welche zwei Aussagen sind richtig?
+
+[X] Das durchschnittliche Queueing Delay hängt von der Traffic Intensity des Netzwerks ab.
+
+[ ] Die Traffic Intensity hängt nicht von der Bandbreite des Netzwerks ab.
+
+[ ] Die Anzahl an Paketverlusten ist nicht abhängig von der Traffic Intensity.
+
+[X] Eine Traffic Intensity von 1 gibt an, dass die Bandbreite des Netzwerks voll ausgelastet ist.
+

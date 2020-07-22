@@ -1,0 +1,17 @@
+Ordnen Sie die Betriebssysteme / Laufzeitumgebungen einer Kategorie zu.
+
+Multiple Processes / Multiple Threads
+
+    Linux
+
+Multiple Processes / Single Thread
+
+    Traditional UNIX
+
+Single Process / Multiple Threads
+
+    Java Runtime Environment
+
+Single Process / Single Thread
+
+    MS-DOS
