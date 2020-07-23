@@ -11,6 +11,7 @@ Was gibt folgendes Programm auf der Konsole aus?
     return 0;
     }
 
+
 [ ] 6, 4
 
 [ ] 12, 12

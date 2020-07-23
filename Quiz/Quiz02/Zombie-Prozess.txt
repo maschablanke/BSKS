@@ -3,11 +3,8 @@ Zombie-Prozesse...
 
 [ ] ... haben keinen Eintrag in der Prozesstabelle und sind so für Elternprozesse unsichtbar.
 
-	
 [X] ... können nicht in den Zustand 'Running' wechseln.
 
-	
 [ ] ... können durch kill nicht terminiert werden.
 
-	
 [X] ... verbrauchen weiterhin Systemressourcen.

@@ -13,6 +13,7 @@ Was gibt folgendes Programm auf der Kommandozeile aus?
     return 0;
     }
 
+
 [ ] Compiler-Fehler
 
 [ ] 0
