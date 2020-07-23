@@ -7,6 +7,7 @@ Page Fault (F) / Page Hit (H) | F | F | F | H | F |   |   |   |   |   |   |   | 
 
 Es werden die in der Tabelle dargestellten Seitenzugriffe vorgenommen. Im Speicher stehen drei Seitenrahmen zur Verfügung, das Page Replacement wird mittels Bélády-Algorithmus ausgeführt. Die ersten fünf Zugriffe verursachen einen Page Hit und vier Page Faults. Wie viele Page Faults sind es bis zum Ende der Tabelle?
 
+
 [ ] 9
 
 [X] 7

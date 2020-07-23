@@ -1,5 +1,6 @@
 Welche Eigenschaften hat das Scheduling unter Linux?
 
+
 [X] Prioritätsbasiert
 
 [ ] Non-Preemptive
