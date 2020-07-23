@@ -3,11 +3,8 @@ Es gibt mehrere Entwurfsziele bei der Entwicklung eines Betriebssystems. Eines i
 
 [ ] Unterbrechbarkeit des Kernels
 
-
 [ ] Gewährleistung von Sicherheit und Schutz
 
-
 [ ] Koordinierung gleichzeitiger Aktionen und Ereignisse
-
 
 [X] Rechtzeitigkeit (Einhaltung von Echtzeitanforderungen)
