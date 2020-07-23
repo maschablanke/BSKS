@@ -1,5 +1,6 @@
 Welche Aufgabe übernimmt der Basic I/O Supervisor?
 
+
 [ ] Verwaltung von Basisinformationen und Metadaten
 
 [X] Planung der Reihenfolge (Scheduling) von Schreibvorgängen auf Festplatte

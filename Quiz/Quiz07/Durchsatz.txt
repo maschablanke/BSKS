@@ -1,5 +1,6 @@
 Welche zwei Aussagen sind korrekt?
 
+
 [X] Der Durchsatz (Throughput) gibt die Nutzdatenmenge pro Zeit an, die in einem Netzwerk übertragen wird.
 
 [ ] Der Durchsatz sinkt proportional mit der Länge einer Route.
