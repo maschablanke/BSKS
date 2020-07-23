@@ -1,5 +1,6 @@
 Wenn sich ein Prozess, der aus mehreren Threads besteht, aufspaltet, dann gibt es ein Problem, wenn alle Kindprozesse Kopien der Threads des Elternprozesses mitbekommen. Angenommen, einer der ursprünglichen Threads wartete auf eine Tastatureingabe. Jetzt warten zwei Threads auf eine Tastatureingabe, einer in jedem Prozess. Kann dieses Problem auch in Prozessen auftreten, die nur aus einem Thread bestehen?
 
+
 [X] Nein
 
 [ ] Ja

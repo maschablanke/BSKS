@@ -1,5 +1,6 @@
 Welche Aussagen sind im Normalfall für POSIX-Betriebssysteme korrekt?
 
+
 [X] Der Kindprozess kennt die Prozess-ID des Elternprozesses.
 
 [ ] Ändert ein Elternprozess ein Speicherwort in seinem Adressraum, so ist dies auch für Kindprozesse sichtbar.
