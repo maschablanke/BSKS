@@ -1,14 +1,11 @@
 Benutzerprogramme sollten nicht beliebig auf Betriebssystemfunktionen zurückgreifen können.
 Welche der genannten Funktionen dürfen Benutzerprogramme im unpreviligierten Modus durchführen?
-	
+
 
 [X] Lesen der aktuellen Uhrzeit
-	
 
-Sperren aller Interrupts
-	
+[ ] Sperren aller Interrupts
 
-Ändern der Speicherzuordnungstabellen
-	
+[ ] Ändern der Speicherzuordnungstabellen
 
-Setzen der aktuellen Uhrzeit
+[ ] Setzen der aktuellen Uhrzeit

@@ -4,15 +4,14 @@ Welche Bedeutung hat die Zahl 6 in den beiden folgenden Fällen?
 
     int numbers[6];
 
+
+[ ] In beiden Fällen adressiert die Zahl 6 ein Element des Arrays.
 	
 
-In beiden Fällen adressiert die Zahl 6 ein Element des Arrays.
-	
-
-In beiden Fällen spezifiziert 6 die Arraylänge.
+[ ] In beiden Fällen spezifiziert 6 die Arraylänge.
 	
 
 [X] In Fall 1 adressiert die Zahl 6 ein Element des Arrays, in Fall 2 beschreibt die Zahl 6 die Länge eines Arrays.
 	
 
-In Fall 1 beschreibt die Zahl 6 die Länge eines Arrays, in Fall 2 adressiert die Zahl 6 ein Element des Arrays.
+[ ] In Fall 1 beschreibt die Zahl 6 die Länge eines Arrays, in Fall 2 adressiert die Zahl 6 ein Element des Arrays.

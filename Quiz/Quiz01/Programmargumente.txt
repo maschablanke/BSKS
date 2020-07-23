@@ -13,6 +13,7 @@ wird mit dem Befehl
 
 gestartet. Welche Konsolenausgabe ist zu sehen?
 
+
 [ ] c
 
 [X] a
