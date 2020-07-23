@@ -1,5 +1,6 @@
 Welche zwei Aussagen gelten für ARP?
 
+
 [ ] Die ARP-Tabelle enthält genau zwei Spalten: MAC-Adresse und IP-Adresse.
 
 [X] ARP-Spoofing ist eine Angriffsform, bei der gefälschte Antworten auf ARP-Requests gesendet werden.

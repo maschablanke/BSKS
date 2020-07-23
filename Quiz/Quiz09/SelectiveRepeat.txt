@@ -1,5 +1,6 @@
 Was gilt für das Protokoll Selective repeat als Erweiterung von rdt3.0? Markieren sie zwei Aussagen.
 
+
 [ ] Receiver-seitig muss nur die Sequenznummer (Sequence number) des nächsten erwarteten Pakets bekannt sein.
 
 [ ] Fenstergröße (Windows size) N und Anzahl möglicher Sequenznummern (Sequence numbers) stehen in keinem Zusammenhang.

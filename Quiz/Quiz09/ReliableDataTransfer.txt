@@ -1,5 +1,6 @@
 Markieren sie die zwei richtigen Aussagen: rdt2.1...
 
+
 [X] ... nutzt ACKs / NAKs zur Fehlerbehebung.
 
 [ ] ... kann einzelne Bitfehler durch Analyse der Checksumme beheben.

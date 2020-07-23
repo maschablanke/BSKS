@@ -1,5 +1,6 @@
 Welche zwei Aussagen gelten für MAC-Adressen?
 
+
 [ ] MAC-Adressen lassen sich in zwei Bereiche aufteilen: ein Netzname und eine Hostadresse.
 
 [X] Die MAC-Adresse FF-FF-FF-FF-FF-FF ist für Broadcastanfragen reserviert.

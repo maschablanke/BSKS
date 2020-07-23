@@ -1,5 +1,6 @@
 Welche zwei Aussagen gelten für das Switches?
 
+
 [ ] Ein Switch kann üblicherweise auch alle Funkionen eines Routers ausführen.
 
 [X] Ein Router kann üblicherweise auch alle Funkionen eines Switchs ausführen.

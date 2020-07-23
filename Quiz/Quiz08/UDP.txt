@@ -1,5 +1,6 @@
 Markieren Sie zwei richtige Aussagen bezuglich UDP.
 
+
 [X] UDP ist im Gegensatz zu TCP zustandslos (stateless).
 
 [ ] UDP nutzt im Gegensatz zu TCP keine Prüfsumme (checksum), da die Integrität des Paketinhalts nicht verifiziert wird.

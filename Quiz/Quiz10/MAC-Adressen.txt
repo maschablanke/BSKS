@@ -1,5 +1,6 @@
 Welche zwei Aussagen gelten für MAC-Adressen?
 
+
 [X] Jede MAC-Adresse ist global nur einmal vergeben.
 
 [X] Die MAC-Adresse FF-FF-FF-FF-FF-FF ist für Broadcastanfragen reserviert.

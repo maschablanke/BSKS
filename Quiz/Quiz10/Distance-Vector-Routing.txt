@@ -1,5 +1,6 @@
 Welche zwei Aussagen gelten für das Distance-Vector-Routing?
 
+
 [ ] Beim Distance-Vector-Routing kennt jeder Router für jeden Zielrouter jeden Schritt des optimalen Pfades und die Distanz jedes Zwischenschritts.
 
 [X] Die Anzahl der Iterationen für die Berechnung der terminalen Weiterleitungstabelle eines Routers ist bei bei konstanten Kosten niemals größer als die Anzahl der Router im untersuchten Netzwerk.

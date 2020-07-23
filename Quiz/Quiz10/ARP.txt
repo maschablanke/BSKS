@@ -1,5 +1,6 @@
 Welche zwei Aussagen gelten für ARP?
 
+
 [ ] Die ARP-Tabelle enthält genau zwei Spalten: MAC-Adresse und IP-Adresse.
 
 [X] Jeder Netzwerkknoten hat seine eigene ARP-Tabelle.
