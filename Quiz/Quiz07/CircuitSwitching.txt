@@ -1,5 +1,6 @@
 Markieren Sie zwei Eigenschaften von Circuit Switching.
 
+
 [ ] Höherer Daten-Overhead als bei Packet Switching
 
 [ ] Mehrere Konversationen können gleichzeitig über eine Datenleitung stattfinden

@@ -1,5 +1,6 @@
 Welche Aussagen sind in C wahr?
 
+
 [X] Deklariert man Variablen außerhalb von Funktionen, so sind sie global verfügbar.
 
 [ ] Der sizeof()-Operator ist nicht auf Arrays anwendbar.

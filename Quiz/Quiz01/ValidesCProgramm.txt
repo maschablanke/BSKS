@@ -1,13 +1,10 @@
 Ein valides (kompilierbar) C Programm, das "Hello World" in die Konsole ausgibt, muss...
-	
+
 
 [X] mindestens zwei Zeilen lang sein.
-	
 
-mindestens zwei Semikola enthalten.
-	
+[ ] mindestens zwei Semikola enthalten.
 
-nicht zwingend ein Semikolon enthalten.
-	
+[ ] nicht zwingend ein Semikolon enthalten.
 
 [X] mindestens ein Semikolon enthalten.

@@ -11,7 +11,8 @@ Was gibt das zweite printf auf der Konsole aus?
     // Ausgabe auf der Konsole?
     printf("%c", *(ptr+1));
     }
-	
+
+
 [ ] a
 
 [X] u

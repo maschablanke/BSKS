@@ -1,5 +1,6 @@
 Was passiert bei einem wait()-Befehl, wenn kein Kindprozess existiert, auf den gewartet werden kann?
 
+
 [ ] Ist die Option WNOHANG nicht gesetzt, so wartet der Prozess auf Signale.
 
 [ ] Der Prozess wartet, bis WMAXTIME erreicht ist und wird dann fortgesetzt.

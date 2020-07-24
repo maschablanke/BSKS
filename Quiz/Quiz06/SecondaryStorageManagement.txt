@@ -1,5 +1,6 @@
 Was ist keine Aufgabe des Secondary Storage Managements?
 
+
 [X] Anpassung der Blockgröße in Abhängigkeit von Dateigrößen
 
 [ ] Allozierung von Blöcken

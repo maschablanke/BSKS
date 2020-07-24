@@ -1,5 +1,6 @@
 Welche zwei Aussagen gelten für ARP?
 
+
 [X] Eine ARP-Request enthält die IP-Adresse des anfragenden Netzwerkknotens.
 
 [ ] Eine ARP-Request enthält die MAC-Adresse des gesuchten Netzwerkknotens.

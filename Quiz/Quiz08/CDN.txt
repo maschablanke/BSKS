@@ -1,5 +1,6 @@
 Markieren Sie zwei richtige Aussagen bezuglich CDNs.
 
+
 [X] Ein CDN ist ein Netz verteilter Server, über welches vorwiegend große Inhalte (z. B. Videos) ausgeliefert werden.
 
 [ ] Zwar sind Latenzen bei CDNs geringer als bei dem Einsatz eines zentralen Server, dafür steigt die genutzte Bandbreite (internet bandwidth).

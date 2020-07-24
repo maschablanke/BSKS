@@ -2,6 +2,7 @@
 
 Die dargestellte Abbildung zeigt einen Webserver mit mehreren Threads. Nehmen wir an, der einzige Weg, von einer Datei zu lesen, wäre der normale, blockierende read-Systemaufruf. Ist es sinnvoll, Kernel-Threads für den Webserver zu verwenden oder sollten User-Threads benutzt werden? Welcher Thread-Typ wäre effizienter?
 
+
 [ ] User-Threads
 
 [X] Kernel-Threads

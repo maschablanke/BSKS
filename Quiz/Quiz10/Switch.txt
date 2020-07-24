@@ -1,5 +1,6 @@
 Welche zwei Aussagen gelten für das Switches?
 
+
 [X] Ein Router kann üblicherweise auch alle Funkionen eines Switchs ausführen.
 
 [ ] Ein Switch leitet empfangene Ethernet-Frames stets an alle Interfaces (Schnittstellen) weiter.

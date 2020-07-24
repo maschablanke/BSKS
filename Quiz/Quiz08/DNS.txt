@@ -1,5 +1,6 @@
 Markieren Sie zwei richtige Aussagen bezuglich DNS.
 
+
 [X] Der Standard-Port für DNS ist 53.
 
 [X] Der Typ A einer Resource Record enthält als Wert eine IP-Adresse.

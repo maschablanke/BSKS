@@ -1,3 +1,3 @@
 # Quiz 8
 
-Hier haben sie scheinbar darauf verzichtet, die Fragen eindeutig zu bezeichnen. Die Nummerierungen sind somit willkürlich.
+Hier wurde scheinbar darauf verzichtet, die Fragen eindeutig zu bezeichnen. Die Nummerierungen sind somit willkürlich.

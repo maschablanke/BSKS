@@ -1,5 +1,6 @@
 Markieren Sie zwei richtige Aussagen bezuglich SMTP.
 
+
 [ ] Typische SMTP-Befehle sind GET, POST und DELETE.
 
 [X] Für die Verwaltung von E-Mail-Postfächern wird SMTP üblicherweise mit POP3 oder IMAP kombiniert.

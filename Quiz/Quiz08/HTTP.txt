@@ -1,5 +1,6 @@
 Markieren Sie zwei richtige Aussagen bezuglich HTTP.
 
+
 [X] Persistent HTTP hat üblicherweise einen geringeren Overhead als Non-Persistent HTTP.
 
 [ ] Durch die Zeile "Connection: Keep-Alive" im HTTP-Header wird Web Caching aktiviert.

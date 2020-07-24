@@ -1,5 +1,6 @@
 Jeder Eintrag einer Seitentabelle (Page table entry) enthält ein Modified bit. Welches Ziel wird hierdurch verfolgt?
 
+
 [ ] Reduzierte Anzahl von Einträgen in der Seitentabelle (Page table entries)
 
 [ ] Reduzierung der Anzahl an Page Faults

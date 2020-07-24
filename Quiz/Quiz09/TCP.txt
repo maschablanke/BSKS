@@ -1,5 +1,6 @@
 Markieren sie die zwei richtigen Aussagen zu TCP.
 
+
 [X] Mehrere TCP-Pakete können mit einem ACK gleichzeitig bestätigt werden.
 
 [ ] In jedem TCP-Header befindet sich eine 4-Byte-Checksumme.

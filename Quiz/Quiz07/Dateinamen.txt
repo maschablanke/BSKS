@@ -1,5 +1,6 @@
 Wo sind Dateinamen gespeichert?
 
+
 [ ] Der Dateiname ergibt sich direkt aus dem im Inode gespeicherten Pfad
 
 [ ] Metainformation im Inode zu dieser Datei

@@ -13,15 +13,11 @@ void display()
     printf("Hello, world!");
 }
 
-	
 
-Nein.
-	
+[ ] Nein.
 
-Ja, der main-Funktion fehlen die Parameter argc und argv.
-	
+[ ] Ja, der main-Funktion fehlen die Parameter argc und argv.
 
-Ja, die Funktion display hat kein return-Statement.
-	
+[ ] Ja, die Funktion display hat kein return-Statement.
 
 [X] Ja, die Funktion display wird aufgerufen bevor sie definiert wird.
