@@ -1,6 +1,6 @@
 Welche Aussagen sind wahr?
 
-	
+
 [ ] Ein blockierter Kernel-Thread blockiert alle weiteren Threads des Prozesses.
 
 [X] Kernel-Threads eines Prozesses können auf unterschiedlichen Prozessorkernen gleichzeitig laufen.

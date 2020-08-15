@@ -1,5 +1,5 @@
 C ist...
-	
+
 
 [X] ... besonders geeignet für hardwarenahe Programmierung.
 
