@@ -1,0 +1,11 @@
+ 
+Markieren Sie zwei richtige Aussagen bezuglich SMTP.
+	
+
+[] SMTP ist ein mittlerweile nicht mehr gebräuchliches Protokoll für die Verwaltung von E-Mail-Postfächern.	
+
+[X] SMTP nutzt traditionell den TCP-Port 25.
+
+[X] Wurde eine Anfrage erfolgreich ausgeführt, so liefert der Server ein dreistelligen Statuscode, der mit einer 2 beginnt.
+
+[] Ein SMTP-eigenes Feature ist, dass die Ordnerstruktur des E-Mail-Postfachs beliebig nach Benutzerwunsch angepasst werden kann.
