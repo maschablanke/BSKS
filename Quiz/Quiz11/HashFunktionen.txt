@@ -1,0 +1,10 @@
+Welche drei Aussagen gelten für Hash Funktionen?
+	
+
+[X] Zwei unterschiedliche Eingaben in SHA-1 führen zu unterschiedlichen Hashwerten.
+
+[X] Die Funktion f(x)=x%13 stellt eine einfache Hashfunktion dar. ("% 13" bedeutet "modulo 13")
+	
+[X] MD5 und SHA-1 sind geläufige Hashfunktionen.
+
+[] Hash Funktionen sind injektiv. 

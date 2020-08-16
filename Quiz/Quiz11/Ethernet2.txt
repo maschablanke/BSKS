@@ -1,0 +1,11 @@
+ 
+Welche drei Aussagen gelten für Ethernet?
+	
+
+[X] Ethernet leitet sich vom Begriff des Äthers ab.
+
+[X] Netzwerkarchitekturen können sich beispielsweise an einer Bus- oder Sterntopologie orientieren.	
+
+[] Optische Übertragungskanäle gewähren nicht so hohe Bandbreiten wie Ethernet gewährleisten.
+
+[X] Ein Charakteristikum von Ethernetverbindungen ist, dass sie sehr einfach und günstig sind.

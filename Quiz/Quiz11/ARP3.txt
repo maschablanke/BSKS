@@ -1,0 +1,10 @@
+Welche Aussage gilt für ARP?
+	
+
+[] ARP steht für Access Receive Protocol.
+
+[] ARP muss vom Netzwerkadministrator eingerichtet werden.
+
+[] Die Einträge in der ARP Tabelle bleiben bestehen, sofern sie nicht überschrieben werden.
+
+[X] ARP beinhaltet sowohl Broadcast- als auch Unicast Kommunikation. 
