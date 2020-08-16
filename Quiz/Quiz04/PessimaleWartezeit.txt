@@ -1,0 +1,11 @@
+ 
+Bei welchen Schedulingstrategien ist die pessimale Wartezeit einzelner Jobs nicht nach oben begrenzt, so dass Starvation auftreten kann?
+	
+
+[] Round Robin
+	
+[] First Come First Serve
+	
+[X] Prioritätsscheduling
+	
+[X] Shortest Job First

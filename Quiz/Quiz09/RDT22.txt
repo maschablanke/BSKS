@@ -1,0 +1,10 @@
+Markieren sie die zwei richtigen Aussagen: rdt2.2...
+	
+
+[]... kann einzelne Bitfehler durch Analyse der Checksumme beheben.
+
+[]... verwendet einen Timer, um Paketverluste (Packet loss) zu detektieren.
+
+[X]... nummeriert Pakete (1 bit sequence number), um Duplikate zu erkennen.
+
+[X] ... sendet für die Ablehnung eines Pakets statt einem NAK ein ACK für das vorige Paket. 

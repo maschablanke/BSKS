@@ -1,0 +1,14 @@
+ 
+Was gibt folgendes Programm auf der Konsole aus?
+
+#include <stdio.h> 
+#include <unistd.h>
+int main() 
+{ 
+    if (fork()) fork(); 
+    printf("1"); 
+    return 0; 
+} 
+
+
+Antwort: 111

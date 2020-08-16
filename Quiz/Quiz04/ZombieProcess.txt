@@ -1,0 +1,9 @@
+ 
+Was passiert mit Zombie-Prozessen, wenn ihr Elternprozess terminiert?
+	
+
+[] Der Elternprozess erhält vor der Terminierung ein SIGCHLD-Signal. Danach werden die Zombie-Prozesse aus der Prozesstabelle gelöscht.
+ 
+[X] Sie werden von einem dafür vorgesehenen Prozess adoptiert.
+	
+[] Sie werden ohne weitere Mitteilung aus der Prozesstabelle gelöscht.

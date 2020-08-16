@@ -1,0 +1,10 @@
+Welche Aussage gilt für Ethernet?
+	
+
+[] Switches können nicht an Switches angeschlossen werden.
+
+[] Hosts müssen sich erst beim Switch anmelden.
+
+[X] Switches sind in der Lage unbekannte Hosts, die an dem Switch verbunden sind, kennenzulernen und in die Switch Tabelle aufzunehmen.
+
+[] Switches flooden nur einen Teil des Netzwerks, um dieses nicht unnötig zu belasten. 

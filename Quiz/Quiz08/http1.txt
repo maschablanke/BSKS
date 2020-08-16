@@ -1,0 +1,10 @@
+Markieren Sie zwei richtige Aussagen bezuglich HTTP.
+	
+
+[X] HTTP ist zustandslos (stateless).
+
+[] Der Standard-Port für HTML-Anfragen ist 8000.
+
+[] Bei einer syntaktisch ungültigen Anfrage sieht HTTP den Fehlercode 505 vor.
+
+[X] HTTP/1.1 unterstützt unterschiedliche Request-Typen wie GET, PUT und DELETE.

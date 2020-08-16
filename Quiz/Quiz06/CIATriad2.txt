@@ -1,0 +1,16 @@
+ 
+ In der Vorlesung wurden allgemeine Ziele für die Sicherheit und den Schutz von Informationen vorgestellt. Ordnen Sie die drei Begriffe per Drag and Drop der jeweiligen Begriffserklärung zu.
+
+
+    Nur dazu berechtigte Personen sollen in der Lage sein, Informationen einzusehen.
+
+        Vertraulichkeit (Confidentiality)
+
+    Informationen müssen stets zugänglich sein.
+
+        Verfügbarkeit (Availability)
+
+    Informationen müssen vor unauthorisierter Veränderung geschützt sein.
+
+        Integrität (Integrity)
+

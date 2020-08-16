@@ -1,0 +1,8 @@
+Welche Eigenschaften hat die Organisationsstruktur Sequential File? Markieren sie zwei Antworten.
+	
+
+[X] Eindeutige Identifizierung eines Records durch Schlüsselfeld (key field)
+
+[] Variable Menge an Feldern (fields)
+
+[X] Records fester Länge 

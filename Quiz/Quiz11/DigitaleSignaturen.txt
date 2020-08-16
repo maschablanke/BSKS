@@ -1,0 +1,10 @@
+Welche zwei Aussagen gelten für Digitale Signaturen?
+	
+
+[] Emails sind standardmäßig signiert.
+
+[X] Mit einem privaten Schlüssel können Nachrichten signiert werden.
+
+[X] Mit einem öffentlichen Schlüssel kann die Signatur einer Nachricht überprüft werden.
+
+[] Mittels eines Man-(or woman-) In-The-Middle-Angriff können private Schlüssel erhalten werden. 

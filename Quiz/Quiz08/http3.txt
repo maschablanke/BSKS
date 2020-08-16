@@ -1,0 +1,10 @@
+Markieren Sie zwei richtige Aussagen bezuglich HTTP.
+	
+
+[] Werden statische HTML-Seiten über HTTP-Requests angefordert, so werden diese typischerweise über UDP versendet.
+	
+[X] In GET-Requests werden Parameter direkt in der URL übergeben.
+	
+[] Durch die Zeile "Connection: Keep-Alive" im HTTP-Header wird Web Caching aktiviert.
+	
+[X] Persistent HTTP hat üblicherweise einen geringeren Overhead als Non-Persistent HTTP. 

@@ -1,0 +1,9 @@
+
+Welches der genannten Scheduling-Verfahren ist präemptiv?
+	
+
+[X] Shortest-Remaining-Time-First (SRTF)
+	
+[] Shortest-Job-First (SJF)
+	
+[] First Come, First Served (FCFS)

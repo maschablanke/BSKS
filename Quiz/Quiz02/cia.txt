@@ -1,0 +1,21 @@
+ 
+CIA Viereck
+
+In der Vorlesung wurden allgemeine Ziele eines Betriebssystems für die Sicherheit und den Schutz der Daten einzelner Nutzer vorgestellt. Ordnen Sie die vier Begriffe per Drag and Drop der jeweiligen Begriffserklärung zu.
+
+
+    Vermeidung von Systemausfällen oder längeren Unterbrechungen
+
+        [Verfügbarkeit (Availability)]
+
+    Nur dazu berechtigte Personen sollen in der Lage sein, Prozessdaten zu lesen oder Informationen über ihren Inhalt zu erlangen.
+
+        [Vertraulichkeit (Confidentiality)]
+
+    Der Ursprung von Prozessen und Daten soll eindeutig identifizierbar sein und einem Nutzer zuordenbar sein.
+
+        [Authentizität (Authenticity)]
+
+    Prozessdaten müssen vor unauthorisierter Veränderung geschützt sein.
+
+        [Datenintegrität (Data integrity)]

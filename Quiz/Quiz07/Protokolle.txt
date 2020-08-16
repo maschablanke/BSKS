@@ -1,0 +1,10 @@
+Welche zwei Aussagen sind korrekt?
+	
+
+[X] Das ISO/OSI-Referenzmodell besteht aus sieben Schichten.
+
+[] IP stellt sicher, dass Pakete in der richtigen Reihenfolge ankommen.
+
+[] IP stellt sicher, dass keine Pakete verloren gehen.
+
+[X] HTTP, SSH und SMTP sind als Protokolle dem Application Layer zuzuordnen. 

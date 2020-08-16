@@ -1,0 +1,10 @@
+Markieren sie die zwei richtigen Aussagen.
+	
+
+[X] In jedem TCP-Header stehen Source- und Destination-Port.
+
+[] Der Premature Timeout eines ACKs führt stets dazu, dass das unbestätigte Paket neu versendet wird.
+	
+[X] Ein Zwei-Wege-Handschlag kann zu halb offenen Verbindungen führen.
+	
+[] TCP verlangt, dass Out-of-Order-Pakete verworfen und neu angefragt werden. 
