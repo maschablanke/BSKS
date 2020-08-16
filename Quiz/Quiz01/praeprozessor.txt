@@ -1,0 +1,24 @@
+ 
+Welche Konsolenausgabe erzeugt das folgende Programm?
+
+#include <stdio.h>
+
+#define a 1
+
+int main()
+{
+    printf("%d ", a);
+#ifdef b
+    printf("%d ", a);
+#endif
+    return 0;
+}
+
+
+[] 1 1
+	
+[] Compiler-Fehler
+	
+[X] 1
+	
+[] 1 0
