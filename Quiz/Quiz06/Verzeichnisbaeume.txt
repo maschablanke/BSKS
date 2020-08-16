@@ -1,0 +1,11 @@
+ 
+Markieren sie die zwei richtigen Aussagen für Verzeichnisbäume (file directories).
+	
+
+[X] Einträge von Verzeichnisbäumen enthalten diverse Informationen wie Dateityp und Eigentümer. Ebenfalls ist hier hinterlegt, wann die Datei zuletzt verändert wurde.	
+
+[] Im gesamten Verzeichnisbaum kann jeder Dateiname nur einmalig vergeben werden.	
+
+[] Verzeichnisbäume sind in der Organisationsstruktur Pile hinterlegt.	
+
+[X] Einträge eines Verzeichnisbaums können relativ zum aktuellen Arbeitsverzeichnis (working directory) referenziert werden.

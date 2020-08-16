@@ -1,0 +1,8 @@
+Welche Aufgaben übernimmt das Basis-Dateisystem (Basic file system)? Markieren sie zwei Antworten.
+	
+
+[X] Reduzierung unnötiger Schreibvorgänge durch Zwischenpufferung im Hauptspeicher
+	
+[] Planung der Reihenfolge (Scheduling) von Schreibvorgängen auf Festplatte
+
+[X] Organisation der Blöcke (blocks) 
