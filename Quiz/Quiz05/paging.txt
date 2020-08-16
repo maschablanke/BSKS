@@ -1,0 +1,9 @@
+ 
+Markieren Sie die zwei richtigen Aussagen.
+	
+
+[X] Pre-Paging senkt die Anzahl der Page Faults durch Ausnutzung der Spatial Locality.
+	
+[X] Die physikalischen Adressen der zuletzt aufgerufenen Seiten werden in der Regel durch den Translation Lookaside Buffer (TLB) der MMU gecacht.
+	
+[] Für FIFO Page Replacement gilt: Je mehr Seitenrahmen (frames), desto geringer die Anzahl an Page Faults.

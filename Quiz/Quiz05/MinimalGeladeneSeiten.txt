@@ -1,0 +1,8 @@
+Welche Seiten eines laufenden Prozesses sind mindestens geladen?
+	
+
+[] Es sind mindestens die Seiten geladen, die den Programmcode enthalten.
+
+[] Der Adressraum eines laufenden Prozesses ist vollständig im Hauptspeicher geladen.
+
+[X] Nur die Seite, die die aktuelle Instruktion enthält, muss geladen sein. 
