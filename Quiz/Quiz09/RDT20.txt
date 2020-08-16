@@ -1,0 +1,10 @@
+Markieren sie die zwei richtigen Aussagen: rdt2.0...
+	
+
+[X] ... verwendet Checksummen für die Fehlererkennung.
+	
+[] ... geht davon aus, dass das unterliegende Übertragungsmedium zuverlässig ist (reliable channel).
+
+[] ... nummeriert Pakete (Sequence numbers), um Paketverluste (Packet loss) zu erkennen.
+
+[X] ... nutzt ACKs / NAKs, um Pakete zu bestätigen / abzulehnen. 
