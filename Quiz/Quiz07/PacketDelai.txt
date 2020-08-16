@@ -1,0 +1,11 @@
+ 
+Gegeben sei ein System verbundener Router mit Packet Queues. Welche zwei Aussagen über die Verzögerung (Packet delay) sind für eine Kommunikation über Packet Switching richtig?
+	
+
+[X] Das Queueing Delay hängt von der Auslastung des Netzwerks ab.
+
+[] Die Gesamtverzögerung (Packet Delay) ergibt sich als Summe von Transmission Delay, Propagation Delay und Queueing Delay.
+
+[X] Das Transmission Delay hängt von der Paketgröße (Packet length) ab.
+
+[] Das Propagation Delay hängt von der Bandbreite des Transportmediums ab.

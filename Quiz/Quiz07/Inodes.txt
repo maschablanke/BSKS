@@ -1,0 +1,10 @@
+Markieren Sie zwei Merkmale der in der Vorlesung vorgestellten Inodes.
+	
+
+[] Inodes werden unter anderem von den Dateisystemen ext3 und FAT32 verwendet.
+
+[X] Die Anzahl der Links auf eine Datei wird im dazugehörigen Inode gespeichert.	
+
+[] Die Dateigröße ist durch die Inode-Struktur nicht nach oben limitiert.
+
+[X] Die Tabelle der Blockadressen enthält 15 Einträge, wobei der letzte ein dreifach indirekter Verweis auf Datenblöcke ist.
